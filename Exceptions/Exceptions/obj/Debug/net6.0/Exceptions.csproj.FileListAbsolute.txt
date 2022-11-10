@@ -1,0 +1,15 @@
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\bin\Debug\net6.0\Exceptions.exe
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\bin\Debug\net6.0\Exceptions.runtimeconfig.json
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\bin\Debug\net6.0\Exceptions.dll
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.csproj.AssemblyReference.cache
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.dll
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\obj\Debug\net6.0\Exceptions.genruntimeconfig.cache
+C:\Users\mikid\Documents\02_skolearbejde\Zeal\Projekter\Exceptions\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll
